@@ -1,0 +1,58 @@
+/*GLOBAL STYLES*/
+
+/*GLOBAL STYLES BY MATTHEW COMMINS 1-26-2016*/
+
+body {
+    margin:0px;
+}
+
+a {
+
+}
+
+h1 {
+
+}
+    
+p {
+
+}
+
+header {
+    background-color:#FF7090;
+    height:200px; 
+}
+main {
+    width:95%;
+    margin:20px auto
+}
+footer {
+    background-color:#FF7090;
+    height:300px; 
+    padding:40px;
+}
+footer p {
+    color:#FFFFFF;
+    text-align:center;
+    font-size:16px;
+}
+
+/*BUTTON STYLES*/
+
+.button {
+    background-color:#FF7909; 
+    padding:10px 15px;
+    border-radius:90px;
+    color:#FFFFFF;
+    text-decoration:none;
+}
+
+.button:hover {
+    background-color:#FF0099;
+}
+/*OTHER STYLES*/
+
+.imageCenter {
+    display:block;
+    margin:0px auto;
+}
