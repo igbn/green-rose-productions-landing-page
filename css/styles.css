@@ -19,7 +19,7 @@ p {
 }
 
 header {
-    background-color:#FF7090;
+    background-color:#006600;
     height:200px; 
 }
 main {
@@ -27,12 +27,12 @@ main {
     margin:20px auto
 }
 footer {
-    background-color:#FF7090;
+    background-color:#006600;
     height:300px; 
     padding:40px;
 }
 footer p {
-    color:#FFFFFF;
+    color:#000000;
     text-align:center;
     font-size:16px;
 }
@@ -40,7 +40,7 @@ footer p {
 /*BUTTON STYLES*/
 
 .button {
-    background-color:#FF7909; 
+    background-color:#00b300; 
     padding:10px 15px;
     border-radius:90px;
     color:#FFFFFF;
@@ -48,7 +48,7 @@ footer p {
 }
 
 .button:hover {
-    background-color:#FF0099;
+    background-color:#006600;
 }
 /*OTHER STYLES*/
 
